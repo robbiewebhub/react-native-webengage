@@ -76,3 +76,5 @@ package-lock.json
 
 /coverage
 /third-party
+temp_auto_push.bat
+temp_interactive_push.bat
